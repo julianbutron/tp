@@ -1,0 +1,101 @@
+#contenedor{
+	width: auto;
+	height: auto;
+	margin: 35 0 0 200px;
+}
+#cabecera{
+	width: 480px;
+	height: 60px;
+	background-color: #4682B4;
+	color: white;
+	border-radius: 10px;
+	border-style: groove; 
+	border-width: 1px;
+}
+#cuerpo{
+	width: 480px;
+	height: 335px;
+	background-color: #DCDCDC;
+	border-radius: 10px;
+	border-style: groove; 
+	border-width: 1px;
+	margin: 4 0 0 0px;
+}
+.titulo{
+	font-size: 20pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 18px;
+}
+.campo{
+	float: left;
+	margin: 15 0 0 0px;
+}
+.imagenes{
+	width:145px;
+	height:145px;
+	border-style: groove; 
+	border-width: 2px;
+	margin: 0 0 0 6px;
+	background-color: #4682B4;
+	border-radius: 5px;
+}
+.imagenes:hover{ background:#CC0000;
+}
+/* Letras sobre las imagenes */
+.letras_izquierdo{
+	float:left;
+	font-size: 10pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	margin: -175 0 0 14px;
+}
+.letras_centro{
+	float:left;
+	font-size: 10pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	margin: -175 0 0 172px;
+}
+.letras_derecho{
+	float:left;
+	font-size: 10pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	margin: -175 0 0 330px;
+}
+.letras_izquierdo_inferior{
+	float:left;
+	font-size: 10pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	margin: -25 0 0 14px;
+}
+.letras_centro_inferior{
+	float:left;
+	font-size: 10pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	margin: -25 0 0 172px;
+}
+.letras_derecho_inferior{
+	float:left;
+	font-size: 10pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	margin: -25 0 0 330px;
+}

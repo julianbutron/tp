@@ -1,0 +1,85 @@
+#contenedor{
+	width: auto;
+	height: auto;
+	margin: 5 0 0 50px;
+}
+#cabecera{
+	width: 800px;
+	height: 60px;
+	background-color: #4682B4;
+	color: white;
+	border-radius: 10px;
+	border-style: groove; 
+	border-width: 1px;
+}
+#cuerpo{
+	width: 800px;
+	height: auto;
+	background-color: #F6F6F6;
+	border-radius: 10px;
+	margin: 4 0 0 0px;
+	border-style: groove; 
+	border-width: 1px;
+}
+
+.titulo{
+	font-size: 20pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	margin: -35 0 0 0px;
+}
+
+.imagen_atras{
+	width:40px;
+	height:40px;
+	border-style: groove; 
+	border-width: 0px;
+	margin: 10 0 0 720px;
+	background-color: #4682B4;
+	border-radius: 5px;
+}
+.boton_pdf{
+	width: 165px;
+	height: 35px;
+	background-color: #FF9933;
+	color: white;
+	font-size: 12pt;
+	font-weight: bold;
+	margin: 25 0 5 390px;
+	border-radius: 30px;
+}
+.boton_pdf:hover{ background:#FFD700;
+}
+.boton_salir{
+	width: 165px;
+	height: 35px;
+	background-color: #CC0000;
+	color: white;
+	font-size: 12pt;
+	font-weight: bold;
+	margin: 25 0 5 50px;
+	border-radius: 30px;
+}
+.boton_salir:hover{ background:#FF0000;
+}
+
+/* Pagina buscar titulo + icono */
+.imagen_atras_buscar{
+	width:40px;
+	height:40px;
+	border-style: groove; 
+	border-width: 0px;
+	margin:7 0 0 30px;
+	background-color: #4682B4;
+	border-radius: 5px;
+}
+.titulo_buscar{
+	font-size: 20pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	margin: -35 0 0 0px;
+}

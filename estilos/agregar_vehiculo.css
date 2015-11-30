@@ -1,0 +1,170 @@
+#contenedor{
+	width: auto;
+	height: auto;
+	margin: 35 0 0 200px;
+}
+#cabecera{
+	width: 480px;
+	height: 60px;
+	background-color: #4682B4;
+	color: white;
+	border-radius: 10px;
+	border-style: groove; 
+	border-width: 1px;
+}
+#cuerpo{
+	width: 480px;
+	height: 255px;
+	background-color: #DCDCDC;
+	border-radius: 10px;
+	margin: 4 0 0 0px;
+	border-style: groove; 
+	border-width: 1px;
+}
+.imagen_atras{
+	width:40px;
+	height:40px;
+	border-style: groove; 
+	border-width: 0px;
+	margin: 10 0 0 30px;
+	background-color: #4682B4;
+	border-radius: 5px;
+}
+.titulo{
+	font-size: 20pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	margin: -35 0 0 0px;
+}
+
+.titulos{
+	font-size: 11pt;
+	font-family: helvetica;
+	padding-top: 8px;
+	padding-left: 40px;
+}
+.campo{
+	float: left;
+	margin: 0 0 0 10px;
+}
+.titulos_pequeños{
+	font-size: 8pt;
+	font-family: helvetica;
+	padding-top: 8px;
+	padding-left: 20px;
+}
+
+.campo_patente{
+	width: 150px;
+	height: 35px;
+	font-size: 12pt;
+	padding-left: 5px;
+	margin: 0 0 10 4px;
+	border-radius: 5px;
+}
+.campo_chasis{
+	width: 145px;
+	height: 35px;
+	font-size: 12pt;
+	padding-left: 5px;
+	margin: 0 0 10 4px;
+	border-radius: 5px;
+}
+.campo_marca{
+	width: 152px;
+	height: 35px;
+	font-size: 12pt;
+	padding-left: 5px;
+	margin: 0 2 0 10px;
+	border-radius: 5px;	
+}
+.campo_motor{
+	width: 145px;
+	height: 35px;
+	font-size: 12pt;
+	padding-left: 5px;
+	margin: 0 0 10 2px;
+	border-radius: 5px;
+}
+.campo_modelo{
+	width: 153px;
+	height: 35px;
+	font-size: 12pt;
+	padding-left: 5px;
+	margin: 0 0 0 1px;
+	border-radius: 5px;	
+}
+.campo_fabricacion{
+	width: 86px;
+	height: 35px;
+	font-size: 12pt;
+	padding-left: 5px;
+	margin: 0 0 10 1px;
+	border-radius: 5px;	
+}
+.campo_color{
+	width: 153px;
+	height: 35px;
+	font-size: 12pt;
+	padding-left: 5px;
+	margin: 0 0 10 10px;
+	border-radius: 5px;	
+}
+.campo_precio{
+	width: 145px;
+	height: 35px;
+	font-size: 12pt;
+	padding-left: 5px;
+	margin: 0 0 10 28px;
+	border-radius: 5px;	
+}
+.sesion{
+	font-size: 12pt;
+}
+.boton{
+	width: 165px;
+	height: 35px;
+	background-color: #4682B4;
+	color: white;
+	font-size: 12pt;
+	font-weight: bold;
+	padding-left: 5px;
+	margin: 5 0 0 155px;
+	border-radius: 30px;
+}
+.boton:hover{ background:#0000FF;
+}
+#cuerpo_aviso{
+	width: 480px;
+	height: 190px;
+	background-color: #DCDCDC;
+	border-radius: 10px;
+	border-style: groove; 
+	border-width: 1px;
+	margin: 4 0 0 0px;
+}
+.letras_aviso{
+	color:red;
+	font-size: 16pt;
+	font-family: helvetica;
+	padding-top: 20px;
+	margin: 0 0 10 40px;
+}
+.sesion_aviso{
+	font-size: 12pt;
+}
+.boton_volver_aviso{
+	width: 165px;
+	height: 35px;
+	background-color: #4682B4;
+	color: white;
+	font-size: 12pt;
+	font-weight: bold;
+	padding-left: 5px;
+	margin: 55 0 0 150px;
+	border-radius: 30px;
+}
+.boton_volver_aviso:hover{ background:#FF0000;
+}

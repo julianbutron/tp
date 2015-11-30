@@ -1,0 +1,147 @@
+#contenedor{
+	width: auto;
+	height: auto;
+	margin: 35 0 0 200px;
+}
+#cabecera{
+	width: 480px;
+	height: 60px;
+	background-color: #4682B4;
+	color: white;
+	border-radius: 10px;
+	border-style: groove; 
+	border-width: 1px;
+}
+#cuerpo{
+	width: 480px;
+	height: 240px;
+	background-color: #DCDCDC;
+	border-radius: 10px;
+	margin: 4 0 0 0px;
+	border-style: groove; 
+	border-width: 1px;
+}
+.imagen_atras{
+	width:40px;
+	height:40px;
+	border-style: groove; 
+	border-width: 0px;
+	margin: 10 0 0 30px;
+	background-color: #4682B4;
+	border-radius: 5px;
+}
+.titulo{
+	font-size: 20pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	margin: -35 0 0 0px;
+}
+.titulos_pequeños{
+	font-size: 8pt;
+	font-family: helvetica;
+	padding-top: 8px;
+	padding-left: 20px;
+}
+.titulos{
+	font-size: 11pt;
+	font-family: helvetica;
+	padding-top: 8px;
+	padding-left: 20px;
+}
+.campo{
+	float: left;
+	margin: 0 0 0 10px;
+}
+.campo_seleccionar_chofer{
+	width: 175px;
+	height: 30px;
+	font-size: 12pt;
+	padding-left: 5px;
+	margin: 0 0 8 8px;
+	border-radius: 5px;
+}
+.campo_fecha{
+	width: 140px;
+	height: 30px;
+	font-size: 12pt;
+	padding-left: 10px;
+	margin: 0 0 8 6px;
+	border-radius: 5px;	
+}
+.campo_hora{
+	width: 70px;
+	height: 30px;
+	font-size: 12pt;
+	padding-left: 6px;
+	margin: 0 0 8 13px;
+	border-radius: 5px;	
+}
+.campo_vehiculo{
+	width: 169px;
+	height: 30px;
+	font-size: 12pt;
+	padding-left: 5px;
+	margin: 0 0 8 0px;
+	border-radius: 5px;
+}
+.campo_litros{
+	width:140px;
+	height: 30px;
+	font-size: 12pt;
+	padding-left: 5px;
+	margin: 0 0 8 10px;
+	border-radius: 5px;
+}
+
+.campo_importe_texto{
+	float: left;
+	margin: 0 0 0 256px;
+}
+.campo_importe{
+	width:138px;
+	height: 30px;
+	font-size: 12pt;
+	padding-left: 5px;
+	margin: 0 0 8 6px;
+	border-radius: 5px;
+}
+.sesion{
+	font-size: 12pt;
+}
+.boton{
+	width: 165px;
+	height: 30px;
+	background-color: #4682B4;
+	color: white;
+	font-size: 12pt;
+	font-weight: bold;
+	padding-left: 5px;
+	margin: 15 0 0 0px;
+	border-radius: 30px;
+}
+.boton:hover{ background:#0000FF;
+}
+
+.campo_km{
+	width:120px;
+	height: 30px;
+	font-size: 12pt;
+	padding-left: 5px;
+	margin: 0 0 0 10px;
+	border-radius: 5px;
+}
+.boton_estado{
+	width: 165px;
+	height: 30px;
+	background-color: #4682B4;
+	color: white;
+	font-size: 12pt;
+	font-weight: bold;
+	padding-left: 5px;
+	margin: 25 0 0 148px;
+	border-radius: 30px;
+}
+.boton_estado:hover{ background:#0000FF;
+}

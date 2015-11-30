@@ -1,0 +1,78 @@
+#contenedor{
+	width: auto;
+	height: auto;
+	margin: 35 0 0 200px;
+}
+#cabecera{
+	width: 480px;
+	height: 60px;
+	background-color: #4682B4;
+	color: white;
+	border-radius: 10px;
+	border-style: groove; 
+	border-width: 1px;
+}
+#cuerpo{
+	width: 480px;
+	height: 255px;
+	background-color: #DCDCDC;
+	border-radius: 10px;
+	border-style: groove; 
+	border-width: 1px;
+	margin: 4 0 0 0px;
+}
+#cuerpo_login_validar{
+	width: 480px;
+	height: 230px;
+	background-color: #DCDCDC;
+	border-radius: 10px;
+	margin: 4 0 0 0px;
+	border-style: groove; 
+	border-width: 1px;
+}
+.letras_login_validar{
+	font-size: 16pt;
+	font-family: helvetica;
+	padding-top: 20px;
+	margin: 0 0 10 40px;
+}
+.letras_aviso{
+	font-size: 16pt;
+	font-family: helvetica;
+	padding-top: 20px;
+	margin: 0 0 0 40px;
+}
+.imagen_qr{
+	float: left;
+	font-family: helvetica;
+	padding-top: 20px;
+	margin: -140 0 0 260px;
+}
+.letras_qr{
+	float:left;
+	font-size: 11pt;
+	font-weight: bold;
+	font-family: helvetica;
+	padding-top: 20px;
+	margin: 0 10 5 0px;
+}
+.sesion{
+	font-size: 12pt;
+}
+.boton_finalizar{
+	width: 165px;
+	height: 35px;
+	background-color: #4682B4;
+	color: white;
+	font-size: 12pt;
+	font-weight: bold;
+	padding-left: 5px;
+	margin: 18 0 0 115px;
+	border-radius: 30px;
+}
+.boton_finalizar:hover{ background:#FF0000;
+}
+.sesion_aviso{
+	font-size: 12pt;
+		margin: 0 0 0 0px;
+}

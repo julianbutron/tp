@@ -1,0 +1,124 @@
+#contenedor{
+	width: auto;
+	height: auto;
+	margin: 5 0 0 100px;
+}
+
+#cabecera{
+	width: 680px;
+	height: 60px;
+	background-color: #4682B4;
+	color: white;
+	border-radius: 10px;
+	border-style: groove; 
+	border-width: 1px;
+}
+.imagen_atras{
+	width:40px;
+	height:40px;
+	border-style: groove; 
+	border-width: 0px;
+	margin: 10 0 0 30px;
+	background-color: #4682B4;
+	border-radius: 5px;
+}
+.titulo{
+	font-size: 20pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	margin: 15 0 0 0px;
+}
+.titulo_localizacion{
+	font-size: 20pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	margin: -35 0 0 0px;
+}
+#cuerpo{
+	width: 680px;
+	height: 488px;
+	background-color: #DCDCDC;
+	border-radius: 10px;
+	margin: 2 0 0 0px;
+	border-style: groove; 
+	border-width: 1px;
+}
+.boton{
+	width: 165px;
+	height: 30px;
+	background-color: #4682B4;
+	color: white;
+	font-size: 12pt;
+	font-weight: bold;
+	padding-left: 5px;
+	margin: 4 0 0 155px;
+	border-radius: 30px;
+}
+
+#info {
+	font-size: 18px;
+	background: #ffffff;
+	width: 350px;
+	border-radius: 6px;
+	text-align: center;
+	color: #666666;
+	border: solid 1px #666666;
+	margin: 5px auto;
+	padding: 3px;
+
+}
+#enviar {
+	width: 155px;
+	height: 30px;
+	font-size: 12pt;
+	background-color: #949FB3;
+	color: white;
+	margin: 10px 0 0 10px;
+	border-radius: 30px;
+}
+#enviar:hover{ background:#4682B4;
+}
+#respuesta {
+	margin: -20 0 0 180px;
+}
+#googleMap {
+	margin: 5px auto;
+	width: 98%;
+	height:280px;
+	border: 2px solid #4682B4; 
+	border-radius: 6px;
+}
+#map {
+	margin: 5px auto;
+	width: 98%;
+	height:320px;
+	border: 2px solid #4682B4; 
+	border-radius: 6px;
+}	
+.boton_salir{
+	width: 165px;
+	height: 30px;
+	background-color: #4682B4;
+	color: white;
+	font-size: 12pt;
+	font-weight: bold;
+	padding-left: 5px;
+	margin: -6px 0 0 470px;
+	border-radius: 30px;
+}
+.boton_salir:hover{ background:#FF0000;
+}
+
+.letras_Vehiculo{
+	font-size: 11pt;
+	font-family: helvetica;
+	font-weight: bold;
+	margin: 8 0 0 10px;
+}
+.cod_qr{
+	margin: -85 0 0 270px;
+}

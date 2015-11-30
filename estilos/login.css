@@ -1,0 +1,87 @@
+#contenedor{
+	width: auto;
+	height: auto;
+	margin: 40 0 0 450px;
+}
+#cabecera{
+	width: 400px;
+	height: 50px;
+	background-color: #4682B4;
+	color: white;
+	border-radius: 10px;
+	border-style: groove; 
+	border-width: 1px;
+}
+#cuerpo{
+	width: 400px;
+	height: 200px;
+	background-color: #DCDCDC;
+	border-radius: 10px;
+	margin: 4 0 0 0px;
+	border-style: groove; 
+	border-width: 1px;
+}
+.titulo{
+	font-size: 20pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 10px;
+}
+.campo{
+	float: left;
+	margin: 20 0 0 0px;
+}
+.campo1{
+	width: 360px;
+	height: 40px;
+	font-size: 13pt;
+	padding-left: 5px;
+	margin: 0 0 0 20px;
+	border-radius: 7px;
+}
+.campo2{
+	width: 360px;
+	height: 40px;
+	font-size: 13pt;
+	padding-left: 5px;
+	margin: 0 0 25 20px;
+	border-radius: 7px;
+}
+.sesion{
+	font-size: 12pt;
+}
+.boton{
+	width: 200px;
+	height: 40px;
+	background-color: #4682B4;
+	color: white;
+	font-size: 12pt;
+	font-weight: bold;
+	padding-left: 5px;
+	margin: 0 0 0 100px;
+	border-radius: 30px;
+	display: block;
+}
+.boton:hover{ background:#0000FF;
+	
+}
+
+#cuerpo_login_validar{
+	width: 400px;
+	height: 200px;
+	background-color: #DCDCDC;
+	border-radius: 10px;
+	margin: 4 0 0 0px;
+	border-style: groove; 
+	border-width: 1px;
+}
+.letras_login_validar{
+	font-size: 12pt;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 10px;
+}

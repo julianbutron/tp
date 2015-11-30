@@ -1,0 +1,25 @@
+#contenedor{
+	width: auto;
+	height: auto;
+	margin: 0 0 0 0px;
+}
+#cuerpo{
+	width: 1290px;
+	height: auto;
+	background-color: #F6F6F6;
+	border-radius: 10px;
+	border-style: groove; 
+	border-width: 1px;
+}
+.boton_salir{
+	width: 165px;
+	height: 35px;
+	background-color: #CC0000;
+	color: white;
+	font-size: 12pt;
+	font-weight: bold;
+	margin: 10 0 10 0px;
+	border-radius: 30px;
+}
+.boton_salir:hover{ background:#FF0000;
+}
